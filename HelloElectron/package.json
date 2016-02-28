@@ -1,0 +1,13 @@
+{
+  "name": "helloelectron",
+  "version": "0.0.0",
+  "description": "HelloElectron",
+  "main": "assets/scripts/app.js",
+  "author": {
+    "name": "mizuku",
+    "email": "mizuku.ga@gmail.com"
+  },
+  "dependencies": {
+    "electron-prebuilt": "^0.36.9"
+  }
+}

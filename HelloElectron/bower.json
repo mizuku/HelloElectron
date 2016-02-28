@@ -1,0 +1,27 @@
+{
+  "name": "HelloElectron",
+  "description": "Hello Electron application",
+  "main": "app.js",
+  "authors": [
+    "mizuku"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Electron"
+  ],
+  "homepage": "https://github.com/mizuku/HelloElectron",
+  "moduleType": [
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "knockout": "knockoutjs#^3.4.0",
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.6"
+  }
+}
